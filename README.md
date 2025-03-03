@@ -1,5 +1,6 @@
 I will try to implement RAG to get some information from archive pdf files using Ollama.
 
+
 Install
 
 install also Visual Studio Build Tools 2022
